@@ -1,6 +1,6 @@
 # Prazer! Sou Vitor Monteiro, Desenvolvedor de Software!
 ### Atualmente sou estudande de S.I. na FIAP, e estou cursando o 7° semestre!
-### Desenvolvo soluções utilizando meus conhecimentos em Java, JavaScript, C#, Oracle SQL, outras tecnologias que estou aprendendo: React, Kotlin, Docker, Spring Boot e SQuirrel SQL.
+### Desenvolvo soluções utilizando meus conhecimentos em Java, JavaScript, C#, Oracle SQL, outras tecnologias que estou aprendendo: React, Kotlin, Dart, Flutter, Docker, Spring Boot e SQuirrel SQL.
 
 
 <div align="center">
